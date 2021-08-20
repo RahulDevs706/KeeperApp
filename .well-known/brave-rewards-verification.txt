@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: keeper-app-mern-stack.herokuapp.com
+Token: 15d49bd57ca8ec9d93c69d421fdd1c94efb61bb1873ff74f9745d3b678ea0c4a
